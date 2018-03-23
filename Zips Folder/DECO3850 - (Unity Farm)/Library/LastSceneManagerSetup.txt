@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
 sceneSetups:
 - path: Assets/map reference/1.unity
   isLoaded: 1
   isActive: 1
->>>>>>> 56d6e31670db53f6affa147d131863a8cb62b9d3
